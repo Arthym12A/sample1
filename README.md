@@ -1,3 +1,4 @@
 # sample1
-I am an B.E student\n
+I am an B.E student
+
 hello everyone
